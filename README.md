@@ -29,6 +29,5 @@ This Arduino project simulates a traffic light system using RGB LEDs. The code c
 
 1. Open the serial monitor to view the status messages and observe the traffic light sequence.
 2. Adjust the delay values in the code to modify the duration of each traffic light state.
-3. 
 
 **Note:** This project is a basic implementation and may require modifications for real-world applications, such as adding safety features or integrating with external sensors.
